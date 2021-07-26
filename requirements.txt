@@ -1,6 +1,6 @@
 gunicorn
 numpy
-Cython
+Cython==0.29.19
 APScheduler==3.6.3
 convertdate==2.2.1
 dash==1.12.0
